@@ -1,0 +1,53 @@
+-Home
+   Introdução à empresa
+   Principais produtos
+   		Capacetes
+   		Retrovisor
+   		Escapamento
+   Principais serviços
+      Revisão
+      Lavagem
+      Intalação de peças
+   Fotos de motos dos clientes
+
+-Sobre
+   História   
+   Missão, visão e valores
+   Foto da oficina
+   Mapa
+
+-Produtos
+   Capacetes
+   Manoplas
+   Manete
+   Retrovisor
+   Escapamento
+   Eliminador de placa
+   Envelopamentos
+   Adesivos
+   Luvas
+   Formulário para preço completo (mais de um produto)
+
+-Serviços
+
+   OBS: Mostrar apenas resumo e opção para expandir
+   OBS: Mostrar preços individuais
+   Revisão
+   Remapeamento
+   Dinamômetro
+   Lavagem
+   Cristalização
+   Instalação de peças
+   Formulário para preço completo (mais de um serviço)
+
+-Clientes
+   Slide duplicado com fotos das motos e comentário de cliente
+   Lista com 5 comentários
+
+-Contato
+   Telefone
+   Endereço
+   Email
+   Whatsapp
+   Formulário de contato
+   Mapa
